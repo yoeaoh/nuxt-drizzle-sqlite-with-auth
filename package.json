@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "nuxt-drizzle-sqlite-with-auth",
   "private": true,
   "type": "module",
   "scripts": {
